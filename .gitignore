@@ -1,0 +1,6 @@
+node_modules/*
+*.log
+coverage/*
+*.editorconfig
+dist/*
+notes.txt
